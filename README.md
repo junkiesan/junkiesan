@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/julien-bouland/"><img src="https://img.shields.io/badge/-@julienbouland-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
 
 <img align="right" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" />
-
+<br>
 <h2>⚡️ Random Facts</h2>
 <ul>
 <li>🧭  I’m currently looking for fullstack opening in Paris/remote on an excited project.</li>
@@ -17,7 +17,20 @@
 <li>🏀  I'm into basketball and chopping wood on the week-end.</li>
 <li>🤘  Your rock!</li>
 </ul>
+<br>
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/junkiesan/junkiesan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkiesan&theme=solarized-light" />
+</a>
+<a href="https://github.com/junkiesan/junkiesan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junkiesan&show_icons=true&line_height=27&theme=solarized-light" alt="Martin's GitHub Stats" />
+</a>
+
+
+<!--
+**junkiesan/junkiesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-SublimeText-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -32,17 +45,3 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/junkiesan/junkiesan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkiesan&theme=solarized-light" />
-</a>
-<a href="https://github.com/junkiesan/junkiesan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junkiesan&show_icons=true&line_height=27&theme=solarized-light" alt="Martin's GitHub Stats" />
-</a>
-
-
-<!--
-**junkiesan/junkiesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
