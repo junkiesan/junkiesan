@@ -28,8 +28,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=junkiesan&show_icons=true&line_height=27&theme=solarized-light" alt="Julien's GitHub Stats" />
 </a>
 <br>
-<img src="https://www.codewars.com/users/junkiesan/badges/large" />
-
+<br>
+<a href="https://www.codewars.com/users/junkiesan" target="_blank">
+  <img src="https://www.codewars.com/users/junkiesan/badges/large" />
+</a>
 <!--
 **junkiesan/junkiesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🔧 Technologies & Tools
