@@ -1,8 +1,8 @@
-<h2>Hey there 👋, I'm <a href="http://www.julienbouland.com/">Julien</a></h2>
+<h2>Hey there 👋, I'm <a href="https://julien-bouland-portfolio.herokuapp.com/">Julien</a></h2>
 
 <p>I'm a fullstack developer based in Paris looking to be the very best like no one ever was. 🎶 <br> In the meanwhile I am working on some side projects, and I am a teacher assistant <strong><a href="https://lewagon.com/">@LeWagon</a></strong>.</p>
 
-<p><a href="http://www.julienbouland.com"><img src="https://img.shields.io/badge/-julienbouland.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>
+<p><a href="https://julien-bouland-portfolio.herokuapp.com/"><img src="https://img.shields.io/badge/-julienbouland.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>
 <a href="https://www.linkedin.com/in/julien-bouland/"><img src="https://img.shields.io/badge/-@julienbouland-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
 
 <img align="right" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" />
