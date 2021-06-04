@@ -9,7 +9,7 @@
 <br>
 <h2>⚡️ Random Facts</h2>
 <ul>
-<li>🧭   I’m currently not looking for fullstack opening in Paris/remote on an exciting project.</li>
+<li>🧭   CTO @studyadvisor.</li>
 <li>🃏   Coming from advertising, I learned early on the importance of having a full overview of the needs regarding an overall project.</li>
 <li>💻   Most of my projects are available on <a href="http://www.julienbouland.com/">Github</a>.</li>
 <li>⛰   I did a one year world tour with my brother on a rice and pasta budget, learning a bit of everything from everywhere.</li>
