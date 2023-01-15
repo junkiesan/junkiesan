@@ -21,13 +21,6 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/junkiesan/junkiesan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkiesan&theme=solarized-light" />
-</a>
-<a href="https://github.com/junkiesan/junkiesan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junkiesan&show_icons=true&line_height=27&theme=solarized-light" alt="Julien's GitHub Stats" />
-</a>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junkiesan&theme=solarized-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br>
