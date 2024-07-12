@@ -1,6 +1,6 @@
 <h2>Hey there 👋, I'm <a href="https://julien-bouland-portfolio.herokuapp.com/">Julien</a></h2>
 
-<p>I'm a fullstack developer based in Paris looking to be the very best like no one ever was. 🎶 <br> In the meanwhile I am working on some side projects, and I am CTO inside the neat <strong><a href="https://github.com/Study-Advisor">@StudyFamily</a></strong> !</p>
+<p>I'm a fullstack developer based in Paris looking to be the very best like no one ever was. 🎶 <br> In the meanwhile I am working on some side projects, and I am CTO inside the neat <strong><a href="https://github.com/studycall">@Sqwad</a></strong> !</p>
 
 <p><a href="https://julien-bouland-portfolio.herokuapp.com/"><img src="https://img.shields.io/badge/-julienbouland.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>
 <a href="https://www.linkedin.com/in/julien-bouland/"><img src="https://img.shields.io/badge/-@julienbouland-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
@@ -9,7 +9,7 @@
 <br>
 <h2>⚡️ Random Facts</h2>
 <ul>
-<li>🧭   CTO @studycall.</li>
+<li>🧭   CTO @sqwad</li>
 <li>⛰   I did a one year world tour with my brother on a rice and pasta budget, learning a bit of everything from everywhere.</li>
 <li>💬   Ping me if you want to talk about <strong>ruby, startups, adventure or video games.</strong>.</li>
 <li>🏀   I'm into basketball and chopping wood on the week-end.</li>
