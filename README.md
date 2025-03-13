@@ -16,7 +16,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junkiesan&theme=solarized-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junkiesan&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 <br>
 <br>
